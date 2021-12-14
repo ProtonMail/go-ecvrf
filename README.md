@@ -28,7 +28,7 @@ import "github.com/ProtonMail/go-ecvrf/ecvrf"
 
 ## Documentation
 A full overview of the API can be found here:
-https://godoc.org/gopkg.in/ProtonMail/go-ecvrf/ecvrf
+https://godoc.org/github.com/ProtonMail/go-ecvrf/ecvrf
 
 In this document we provide some examples, more can be found in the tests.
 
