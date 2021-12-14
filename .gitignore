@@ -1,0 +1,10 @@
+.DS_Store
+bin
+dist
+vendor
+.vscode
+*.out
+*.html
+reports
+.idea
+
